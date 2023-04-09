@@ -42,7 +42,8 @@
             "#44475a"
         ],
         "BACKGROUND_TERTIARY": [
-            "#282a36"
+            "#282a36",
+            "#a2d7e1"
         ],
         "BACKGROUND_ACCENT": [
             "#bd93f9"
