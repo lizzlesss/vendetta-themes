@@ -71,6 +71,9 @@
         "CHANNELTEXTAREA_BACKGROUND": [
             "#1e1e2e"
         ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#11111b"
+        ],
         "CONTROL_BRAND_FOREGROUND": [
             "#1e1e2e"
         ],
