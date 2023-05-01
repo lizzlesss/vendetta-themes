@@ -197,6 +197,9 @@
         "SCROLLBAR_THIN_THUMB": [
             "#6c7086"
         ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "11111b"
+        ],
         "SCROLLBAR_THIN_TRACK": [
             "#45475a"
         ],
