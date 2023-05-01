@@ -200,6 +200,9 @@
         "SCROLLBAR_THIN_TRACK": [
             "#45475a"
         ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "11111b"
+        ],
         "STATUS_DANGER_BACKGROUND": [
             "#f38ba8"
         ],
