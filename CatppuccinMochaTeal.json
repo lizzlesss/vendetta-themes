@@ -251,6 +251,7 @@
     },
     "rawColors": {
         "BRAND_500": "#94e2d5",
+        "RED_400": "f38ba8",
         "PRIMARY": "#45475a",
         "PRIMARY_100": "#cdd6f4",
         "PRIMARY_300": "#cdd6f4",
@@ -263,6 +264,7 @@
         "PRIMARY_800": "#181825",
         "PRIMARY_900": "#1e1e2e",
         "BRAND_260": "#f5e0dc",
+        "BRAND_560": "1e1e2e",
         "BRAND_900": "#f5e0dc"
     },
     "spec": 2
