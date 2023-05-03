@@ -1,10 +1,18 @@
 {
-    "name": "CatppuccinMocha",
-    "description": "☕️ Catppuccin Mocha.",
+    "name": "Catppuccin Mocha Sapphire",
+    "description": "😸 Soothing pastel theme for the high-spirited!",
     "authors": [
         {
             "name": "112c",
             "id": "696446023815397456"
+        },
+        {
+            "name": "lizz",
+            "id": "891062883444736040"
+        },
+        {
+            "name": "hmuy",
+            "id": "272388882539085824"
         }
     ],
     "semanticColors": {
@@ -21,7 +29,7 @@
             "#181825"
         ],
         "BACKGROUND_MENTIONED": [
-            "#414559"
+            "#34323b"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#f9e2af"
@@ -39,10 +47,10 @@
             "#181825"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#6c7086"
+            "#282638"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#6c7086"
+            "#342f41"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#313244"
