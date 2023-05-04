@@ -259,20 +259,22 @@
     },
     "rawColors": {
         "BRAND_500": "#a6e3a1",
+        "GREEN_360": "#a6e3a1",
         "PRIMARY": "#45475a",
         "PRIMARY_100": "#cdd6f4",
         "PRIMARY_300": "#cdd6f4",
         "PRIMARY_360": "#cba6f7",
         "PRIMARY_400": "#7f849c",
-        "PRIMARY_500": "#1e1e2e",
-        "PRIMARY_600": "#1e1e2e",
-        "PRIMARY_630": "#45475a",
+        "PRIMARY_500": "#a6adc8",
+        "PRIMARY_600": "#313244",
+        "PRIMARY_630": "#181825",
+        "PRIMARY_660": "#11111b",
         "PRIMARY_700": "#1e1e2e",
         "PRIMARY_800": "#181825",
         "PRIMARY_900": "#1e1e2e",
-        "BRAND_260": "#f5e0dc",
-        "BRAND_560": "#1e1e2e",
-        "BRAND_900": "#f5e0dc"
+        "BRAND_260": "#a6e3a1",
+        "BRAND_560": "#a6e3a1",
+        "BRAND_900": "#a6e3a1"
     },
     "spec": 2
 }
